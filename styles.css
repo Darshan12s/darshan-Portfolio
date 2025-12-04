@@ -955,7 +955,7 @@ footer {
     
     .profile-section {
         flex-direction: column;
-        text-align: center;
+        text-align: start;
         padding: 30px;
     }
     
